@@ -1,0 +1,14 @@
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net8.0\ExponentsLab.exe
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net8.0\ExponentsLab.deps.json
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net8.0\ExponentsLab.runtimeconfig.json
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net8.0\ExponentsLab.dll
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net8.0\ExponentsLab.pdb
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net8.0\ExponentsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net8.0\ExponentsLab.AssemblyInfoInputs.cache
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net8.0\ExponentsLab.AssemblyInfo.cs
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net8.0\ExponentsLab.csproj.CoreCompileInputs.cache
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net8.0\ExponentsLab.dll
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net8.0\refint\ExponentsLab.dll
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net8.0\ExponentsLab.pdb
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net8.0\ExponentsLab.genruntimeconfig.cache
+C:\Users\miwol\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net8.0\ref\ExponentsLab.dll
